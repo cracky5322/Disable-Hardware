@@ -1,0 +1,6 @@
+id=disable_hardware
+name=Disable Hardware
+version=v1.5
+versionCode=1
+author=cracky5322
+description=關閉 SafetyNet 的 Hardware 驗正ㄋ
